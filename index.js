@@ -1,0 +1,1 @@
+console.log("Automatic publishing test")
