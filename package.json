@@ -4,6 +4,9 @@
   "version": "0.0.1",
   "description": "automatic-publishing-test",
   "main": "./index",
+  "bin": {
+    "automatic-publishing-test": "./index.js"
+  },
   "private": false,
   "scripts": {},
   "dependencies": {},
