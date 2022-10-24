@@ -1,8 +1,8 @@
 {
-  "name": "automatic-publishing-test",
+  "name": "automatic-publishing-test-02",
   "license": "MIT",
   "version": "0.0.1",
-  "description": "automatic-publishing-test",
+  "description": "automatic-publishing-test-02",
   "main": "./index",
   "bin": {
     "automatic-publishing-test": "./index.js"
