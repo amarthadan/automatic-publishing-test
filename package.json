@@ -1,7 +1,7 @@
 {
   "name": "automatic-publishing-test-02",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "automatic-publishing-test-02",
   "main": "./index",
   "bin": {
